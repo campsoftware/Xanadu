@@ -373,3 +373,5 @@ Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, D
 - Removed code and classes for Web Awesome. It's nice but not a huge benefit over Bootstrap.
 - Updated xan.php to have an eleHash function used for Web Awesome Ajax Save.
 - Updated \xan\xan->schemaUpdate() and added properties for isFindable and isIndexFullText.
+
+ [Before 2025](README_Before_2025.md)
