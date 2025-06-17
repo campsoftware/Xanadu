@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-06-17-16-57-14
+- Removed Xanadu from GitHub. No longer using git until there's a reason.
+
 2025-06-17-15-32-51
 - Added to XanLabs a ChartJS example. Also refactored how examples are loaded.
 
