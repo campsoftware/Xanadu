@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-06-17-17-34-52
+- Removed CHANGELOG in favor of README and splitting off README_Before_2025. Plan to create one file per year.
+
 2025-06-17-16-57-14
 - Removed Xanadu from GitHub. No longer using git until there's a reason.
 
