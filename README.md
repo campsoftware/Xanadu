@@ -3,4 +3,4 @@ Xanadu is a platform for developing Database-Driven Web Apps that use NGINX, PHP
 
 https://campsoftware.com/products/xanadu.php
 
-[Changelog](CHANGELOG.md)
+[Change Log](CHANGELOG.md)
