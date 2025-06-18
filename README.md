@@ -12,6 +12,15 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-06-18-14-04-13
+- Git test 2.
+
+2025-06-18-14-02-48
+- Git test.
+
+2025-06-18-13-54-07
+- Set up Local Git
+
 2025-06-17-17-34-52
 - Removed CHANGELOG in favor of README and splitting off README_Before_2025. Plan to create one file per year.
 
