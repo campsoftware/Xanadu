@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-06-19-11-50-09
+- Renamed /templates/pdf-default/style.css styles.
+- Updated Contacts and Projects do-print.php.
+
 2025-06-18-14-04-13
 - Git test 2.
 
