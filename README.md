@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-06-19-15-38-10
+- Updated CalendarEvents do-print.php.
+- Updated CalendarEvents recMassage.
+
 2025-06-19-14-26-45
 - Updated xanModifiers to add metaKey.
 - Updated xanGoURL to no longer open a new window on xanModifiers.altKey as it was overlapping with Mac access keys, control / alt.
