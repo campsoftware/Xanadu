@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-06-19-14-26-45
+- Updated xanModifiers to add metaKey.
+- Updated xanGoURL to no longer open a new window on xanModifiers.altKey as it was overlapping with Mac access keys, control / alt.
+
 2025-06-19-11-50-09
 - Renamed /templates/pdf-default/style.css styles.
 - Updated Contacts and Projects do-print.php.
