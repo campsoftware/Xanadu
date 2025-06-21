@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-06-21-16-35-08
+- Updated do-print.php for CalendarEvents, Contacts, Documents, Products, and Vendors.
+- Fixed bug in \xan\recs where recImage and recTitle functions. Requires either Recs or and ID.
+
 2025-06-20-14-48-27
 - Updated eleDateTimeDB, eleDateDB, and eleTimeDB to better place the Magic Dates Selector.
 - Updated all module class.php files recImage and recTitle functions to return empty string on null $recs.
