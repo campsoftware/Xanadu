@@ -12,6 +12,14 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-06-22-16-14-04
+- Renamed Pounds to Weight with an assumed unit of measure in Products, Sales, and SalesItems.
+- Added \xan\tags->valueWithTags.
+- Added \xan\recs->colValueFormatted.
+- Updated printer.php htmlToFile to remove uses of !important.
+- Removed \xan\module->recCol_StringInlineMPDF in favor of \xan\tags->valueWithTags.
+- Updated modules do-print.php files to use \xan\recs->colLabel and \xan\recs->colValueFormatted.
+
 2025-06-21-16-35-08
 - Updated do-print.php for CalendarEvents, Contacts, Documents, Products, and Vendors.
 - Fixed bug in \xan\recs where recImage and recTitle functions. Requires either Recs or and ID.
