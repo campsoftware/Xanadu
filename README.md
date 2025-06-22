@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-06-22-19-06-12
+- Added /templates/pdf-default/style.css widths.
+- Renamed strPostalAddressFormat to strAddressFormat. Updated to be a generic address concatenator.
+
 2025-06-22-16-14-04
 - Renamed Pounds to Weight with an assumed unit of measure in Products, Sales, and SalesItems.
 - Added \xan\tags->valueWithTags.
