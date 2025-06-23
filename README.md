@@ -12,6 +12,11 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-06-23-17-54-47
+- Renamed Addresses Street1 to Street.
+- Added /templates/pdf-default/style.css pad and width variants.
+- Updated do-print.php divs to use width css classes.
+
 2025-06-22-19-06-12
 - Added /templates/pdf-default/style.css widths.
 - Renamed strPostalAddressFormat to strAddressFormat. Updated to be a generic address concatenator.
