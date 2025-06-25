@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-06-25-12-07-08
+- Updated do-print.php pad5 to pad2.
+- Updated do-print.php Sales and Products
+
 2025-06-23-17-54-47
 - Renamed Addresses Street1 to Street.
 - Added /templates/pdf-default/style.css pad and width variants.
