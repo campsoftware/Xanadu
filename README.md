@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-06-25-16-18-01
+- Updated module do-print to have detail info 5px padding, but Projects and Sales are tighter.
+
 2025-06-25-14-51-50
 - Updated Sales module and print. Need to finish SalesItems.
 
