@@ -12,6 +12,12 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-06-27-15-41-51
+- Updated tableTriggersInstall formatting to be cleaner and on SalesItems.
+- Fixed an issue with eleMeta setting eleSelect Choices generated from SQL.
+- Updated Sales, Products, and Vendors.
+- Need to finish Sales Items recMassage and recSaveAfterJS.
+
 2025-06-25-16-18-01
 - Updated module do-print to have detail info 5px padding, but Projects and Sales are tighter.
 
