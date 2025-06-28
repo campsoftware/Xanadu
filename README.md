@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-06-28-14-49-11
+- Updated calls to /logout/ with a reason component to help find the unexpected logout bug.
+
 2025-06-27-15-41-51
 - Updated tableTriggersInstall formatting to be cleaner and on SalesItems.
 - Fixed an issue with eleMeta setting eleSelect Choices generated from SQL.
