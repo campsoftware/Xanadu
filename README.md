@@ -12,6 +12,12 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-03-11-02-39
+- Added recs->colValueSet function.
+- Added Special Instructions to Contacts which is then set on Sales.
+- Added ARRAY_SALES_TAXSTATUS Constant array.
+- Updated Sales, Contacts, Products calcs.
+
 2025-06-28-14-49-11
 - Updated calls to /logout/ with a reason component to help find the unexpected logout bug.
 
