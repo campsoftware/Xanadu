@@ -12,6 +12,15 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-08-18-11-57
+- Added xan.js.js jsClassSet and jsClassRemove.
+- Renamed all xan.js.js jsSet* to js*Set.
+- Changed /logout/*|* calls to use a hyphen instead of a pipe.
+- Added \xan\tags function valueWithTagsRespJS.
+- Updated \xan\recs->colValueFormatted to handle render on server and update with Javascript.
+- Updated \xan\strAppend params to all be required and the order of the params are sequential.
+- Updated doSave.php to use $recsTable->massageColsForGUI instead of duplicated code.
+
 2025-07-03-11-02-39
 - Added recs->colValueSet function.
 - Added Special Instructions to Contacts which is then set on Sales.
