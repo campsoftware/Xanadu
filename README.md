@@ -12,6 +12,12 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-09-16-03-07
+- Updated Bootstrap to 5.3.7.
+- Updated xan.js.js xanDoJS() jsCSSSet to handle !important.
+- Added \xan\tags function valueWithTagsRespJS.
+- Updated Sales TotalDue Color to red when >0 and green when <0.
+
 2025-07-08-18-11-57
 - Added xan.js.js jsClassSet and jsClassRemove.
 - Renamed all xan.js.js jsSet* to js*Set.
