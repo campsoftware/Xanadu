@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-10-12-13-47
+- Updated xan.js.js xanDoJS() functions to use pure JS instead of jQuery.
+
 2025-07-09-16-03-07
 - Updated Bootstrap to 5.3.7.
 - Updated xan.js.js xanDoJS() jsCSSSet to handle !important.
