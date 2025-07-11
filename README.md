@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-11-13-32-20
+- Renamed Trigger Procedures to "triggerTableName".
+- Renamed triggerSales param to pUUIDContacts.
+
 2025-07-11-12-39-01
 - Updated User and Xanadu icons.
 - Updated SalesItems and ProjectsTasks 
