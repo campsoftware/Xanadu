@@ -12,6 +12,11 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-11-12-39-01
+- Updated User and Xanadu icons.
+- Updated SalesItems and ProjectsTasks 
+- Removed moduleTriggerWait functions recColFormattingTags to commit immediately instead of waiting for the trigger. The stored procedure is now called, which checks to see if the stored totals match the unstored totals before updating.
+
 2025-07-10-12-13-47
 - Updated xan.js.js xanDoJS() functions to use pure JS instead of jQuery.
 
