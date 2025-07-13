@@ -12,6 +12,11 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-13-14-35-33
+- Renamed function \xan\eleGetIDRecs and \xan\eleGetID to \xan\eleIDSelector.
+- Updated Sales, SalesItems, Payments.
+- Updated Router to try and detect logouts during ajax.
+
 2025-07-11-17-19-40
 - Updated Trigger Procedures to use Session Vars for consistency. 
 
