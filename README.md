@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-14-16-11-08
+- Updated SalesItems to split recColFormattingTags into recColFormattingTags, recColFormattingColNameA, recColFormattingDo. This was done so recSaveAfterJS can auto format the columns with formatting.
+
 2025-07-13-14-35-33
 - Renamed function \xan\eleGetIDRecs and \xan\eleGetID to \xan\eleIDSelector.
 - Updated Sales, SalesItems, Payments.
