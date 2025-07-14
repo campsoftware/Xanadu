@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-14-16-57-47
+- Updated SalesItems to revert recColFormattingTags back to simply returning tags as needed.
+
 2025-07-14-16-11-08
 - Updated SalesItems to split recColFormattingTags into recColFormattingTags, recColFormattingColNameA, recColFormattingDo. This was done so recSaveAfterJS can auto format the columns with formatting.
 
