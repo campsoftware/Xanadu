@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-15-16-20-57
+- Updated \xan\modules code order for all Modules and added function dividers.
+
 2025-07-15-14-03-21
 - Updated function \xan\arrayValueFound to accept a value or array.
 - Updated \xan\modules code order and code styling for Sales and SalesItems.
