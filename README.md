@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-15-14-03-21
+- Updated function \xan\arrayValueFound to accept a value or array.
+- Updated \xan\modules code order and code styling for Sales and SalesItems.
+
 2025-07-14-16-57-47
 - Updated SalesItems to revert recColFormattingTags back to simply returning tags as needed.
 
