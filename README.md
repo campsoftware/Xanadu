@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-16-13-32-50
+- Fixed \xan\module->recCol_BucketEle and \xan\module->recCol_BucketButtons as an extra # was added to IDs.
+- Updated every \xan\module instance to clean up recsMassage, recColFormattingTags, and recSaveAfterJS.
+
 2025-07-15-16-20-57
 - Updated \xan\modules code order for all Modules and added function dividers.
 
