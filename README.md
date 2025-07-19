@@ -12,6 +12,15 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-19-15-34-58
+- Added xan.php var $consoleLogA to store consoleLog message. page-resp.php sends the array items to the console.
+- Updated recs.php function recordUpdate. Fixed a bug and refactored to no longer select the record at the end.
+- Update page-resp.php function xanInit to update the generated DatePickr classes and styles from its source on page load and ajax.
+- Updated module.php functions recNew, recDuplicate, and recDelete to handle returning a page load or a portal.
+- Updated init.php cookie lifetimes and added last minified js and css timestamps.
+- Removed eleDate, eleTime, eleDateTime functions renderScriptsInit now that xanInit.php handles it generically.
+- Continued on Sales Payments.
+
 2025-07-17-13-27-23
 - Updated every \xan\module instance to clean up recsMassage to use $recs->colValue( $colName ) instead of $rowD.
 
