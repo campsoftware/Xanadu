@@ -12,6 +12,16 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-20-16-24-05
+- Added recs.php function colIsSet that calls array_key_exists.
+- Removed Traits from module.php.
+- Removed \xan\UsersMT::inst()->sessionUserSet(). It performed a Query without using the result.
+- Updated all module.php instances to check if the recs->colIsSet to make sure there is a $colName key.
+
+In Progress 
+- SalesItemsMT->recMassage calcs.
+- Sales Payments calcs.
+
 2025-07-19-15-34-58
 - Added xan.php var $consoleLogA to store consoleLog message. page-resp.php sends the array items to the console.
 - Updated recs.php function recordUpdate. Fixed a bug and refactored to no longer select the record at the end.
