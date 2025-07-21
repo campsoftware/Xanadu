@@ -12,6 +12,13 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-21-12-45-46
+- Fixed a bug in recs.php function colValue that was setting $dataType to 'decimal'.
+
+In Progress 
+- SalesItemsMT->recMassage calcs.
+- Sales Payments calcs.
+
 2025-07-20-16-24-05
 - Added recs.php function colIsSet that calls array_key_exists.
 - Removed Traits from module.php.
