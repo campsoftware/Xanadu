@@ -12,6 +12,17 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-22-15-25-33
+- Fixed xan.js.js xanDoJS jsAttrSet.
+- Added xan.css.css selector for read only xanControl and form-control.
+- Removed get.php css from TAGS_ELE_INPUT_READONLY.
+- Updated uses of [$recs->rowsD[ $recs->rowIndex ][ $this->nameKey ] ?? ''] with [ $recs->keyValue() ].
+- Updated do-portal-payment-paymentApprove.php to Approve Disbursements.
+
+In Progress 
+- Sales, Sales Items, Payments calcs.
+- Projects Items, Project Tasks calcs.
+
 2025-07-21-12-45-46
 - Fixed a bug in recs.php function colValue that was setting $dataType to 'decimal'.
 
