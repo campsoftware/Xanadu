@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-23-17-13-47
+- Updated PaymentsMT Disburse Button and Modal.
+
 2025-07-22-15-25-33
 - Fixed xan.js.js xanDoJS jsAttrSet.
 - Added xan.css.css selector for read only xanControl and form-control.
