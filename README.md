@@ -12,6 +12,12 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-27-15-34-10
+- Added recs.php function recordDuplicate param for setting default values.
+- Added printer.php functions for creating multi column pages that flow down. It uses mPDF->GetY before and after placing html. Proof of concept for now.
+- Updated module.php function cardModalsNewDupDel to accept $colValues to update columns when calling New or Duplicate Record.
+- Continued with Sales Payments.
+
 2025-07-23-17-13-47
 - Updated PaymentsMT Disburse Button and Modal.
 
