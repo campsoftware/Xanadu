@@ -12,6 +12,11 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-29-13-54-05
+- Added printer.php function pageContentCardFitterTEST to test pageContentCardFitter output. 
+- Added functions-dataMassage.php function strLoremIpsum to generate random words that look like sentences.
+- Added the pageContentCardFitterTEST on Home.
+
 2025-07-28-14-24-37
 - Added printer.php function pageContentCardFitter to help create mPDF cards that flow into a multicolumn table.
 
