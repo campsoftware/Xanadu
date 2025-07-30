@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-30-14-57-00
+- Moved Printer pageContentCardFitterTEST to Xan Labs.
+- Update Xan Labs button style and organization.
+
 2025-07-29-13-54-05
 - Added printer.php function pageContentCardFitterTEST to test pageContentCardFitter output. 
 - Added functions-dataMassage.php function strLoremIpsum to generate random words that look like sentences.
