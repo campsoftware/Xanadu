@@ -12,6 +12,12 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-07-31-16-52-43
+- Removed router.php Path Part Rejects.
+- Fixed a bug in router.php where a wrong var was used.
+- Updated Aloe/response.php use of functions to be native instead of from Xanadu to load less until the request is accepted aka not rejected.
+- Updated index.php to reject requests for common AIs and intrusions. Now loading xan/constants-index.php with minimal constants, loading Aloe, and then seeing if the request should be rejected.
+
 2025-07-30-14-57-00
 - Moved Printer pageContentCardFitterTEST to Xan Labs.
 - Update Xan Labs button style and organization.
