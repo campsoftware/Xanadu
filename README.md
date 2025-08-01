@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-08-01-14-42-21
+- Updated constants-index.php function requestReject to log Request Rejections. Removed curl from Bots since we call php via urls.
+
 2025-07-31-16-52-43
 - Removed router.php Path Part Rejects.
 - Fixed a bug in router.php where a wrong var was used.
