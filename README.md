@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-08-02-12-07-56
+- Fixed DocumentMT->recMassage updating of file attributes.
+
 2025-08-01-14-42-21
 - Updated constants-index.php function requestReject to log Request Rejections. Removed curl from Bots since we call php via urls.
 
