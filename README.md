@@ -12,6 +12,12 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-08-03-17-47-51
+- Updated do-portal-payment-paymentDisburse.php to use JS to update the loaded page.
+- Added PaymentsMT content-page.php Disbursements Portal.
+- Removed DisbursementsMT content-page.php Disbursements Portal.
+- Updated all but ContactsMT that had a default Active  or Pinned colValueSet.
+
 2025-08-03-14-46-26
 - Added xan.php function schemaExportAI which runs at the end of the function schemaUpdate. It exports a text file with Tables and Column info to xanApp/xan/xan-schema-ai.json.
 
