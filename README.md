@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-08-03-14-46-26
+- Added xan.php function schemaExportAI which runs at the end of the function schemaUpdate. It exports a text file with Tables and Column info to xanApp/xan/xan-schema-ai.json.
+
 2025-08-02-12-07-56
 - Fixed DocumentMT->recMassage updating of file attributes.
 
