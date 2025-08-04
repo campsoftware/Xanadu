@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-08-04-17-24-18
+- Updated Contacts and Sales Column Payment Terms to be a Select that uses the ARRAY_PAYMENTS_TERMS array.
+
 2025-08-04-16-42-18
 - Removed Payments.DateReceived from Code and SQL.
 - Updated Payments and Disbursements.
