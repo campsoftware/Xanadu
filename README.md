@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-08-04-16-42-18
+- Removed Payments.DateReceived from Code and SQL.
+- Updated Payments and Disbursements.
+
 2025-08-03-17-47-51
 - Updated do-portal-payment-paymentDisburse.php to use JS to update the loaded page.
 - Added PaymentsMT content-page.php Disbursements Portal.
