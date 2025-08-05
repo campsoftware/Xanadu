@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-08-05-15-36-47
+- Updated ProjectsTasks to included a User Picker. Need to finish.
+- Found a bug that is repeating Portal Pickers repeating its contents.
+
 2025-08-04-17-24-18
 - Updated Contacts and Sales Column Payment Terms to be a Select that uses the ARRAY_PAYMENTS_TERMS array.
 
