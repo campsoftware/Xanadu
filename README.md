@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-08-05-18-36-36
+- Updated xan.js.js function xanDoJS case 'jsHTMLSet' to rehydrate script tags.
+- Fixed Bug where Pickers would not set in a Portal. Item above fixed it.
+
 2025-08-05-15-36-47
 - Updated ProjectsTasks to included a User Picker. Need to finish.
 - Found a bug that is repeating Portal Pickers repeating its contents.
