@@ -12,6 +12,11 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-08-07-11-29-27
+- Updated module.php to optionally hide Picker Images. Needed this for Projects Tasks Portal.
+- Added to Projects a function ProjectsTasksSetUser to apply the Project User to ProjectTasks.
+- Updated Sales with a Projects Tasks Portal. Need to finish.
+
 2025-08-06-13-54-06
 - Updated Users Picker to no longer include Active.
 - Updated Users Pickers to all now show as Brief.
