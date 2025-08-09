@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-08-09-12-40-22
+- Updated Sales ProjectsTasks Portal.
+- Added openAIAPI.php for AI queries.
+
 2025-08-07-11-29-27
 - Updated module.php to optionally hide Picker Images. Needed this for Projects Tasks Portal.
 - Added to Projects a function ProjectsTasksSetUser to apply the Project User to ProjectTasks.
