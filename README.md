@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-08-11-15-17-00
+- Updated openAIAPI.php which now can create SQL Queries from English! Tried passing Instructions and Schema as files, but as one big question worked better.
+- Added English to SQL test on Home.
+
 2025-08-09-12-40-22
 - Updated Sales ProjectsTasks Portal.
 - Added openAIAPI.php for AI queries.
