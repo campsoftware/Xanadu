@@ -12,6 +12,12 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-08-20-14-24-37
+- Added functions strFilterURLComponent and strRandomNoun.
+- Added /xan/data-nouns-2315.txt for generating passwords.
+- Added xanLabs User Bulk Password Set.
+- Updated xanLabs Page Buttons organization.
+
 2025-08-11-15-17-00
 - Updated openAIAPI.php which now can create SQL Queries from English! Tried passing Instructions and Schema as files, but as one big question worked better.
 - Added English to SQL test on Home.
