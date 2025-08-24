@@ -12,6 +12,11 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-08-24-16-30-19
+- Renamed date, datetime, and time now functions.
+- Updated recsPDO.php to have colValue, colValueSet, and recordInsert.
+- Added FMDump Migrator to XanLabs.
+
 2025-08-20-14-24-37
 - Added functions strFilterURLComponent and strRandomNoun.
 - Added /xan/data-nouns-2315.txt for generating passwords.
