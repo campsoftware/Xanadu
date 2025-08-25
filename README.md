@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-08-25-17-31-49
+- Added /blog from https://github.com/Cristy94/markdown-blog. Is based on htaccess. Need to add router entries for the List: /blog/, Posts: /blog/foo-thing, and /blog/rss.xml.
+
 2025-08-24-16-30-19
 - Renamed date, datetime, and time now functions.
 - Updated recsPDO.php to have colValue, colValueSet, and recordInsert.
