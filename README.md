@@ -12,6 +12,15 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-09-08-18-20-30
+- Updated sql connections to use utf8m4 instead of utf8.
+- Added new element DB type: eleCheckboxGroupDB.
+- Updated xan.js.js: xanEleCheckboxGroupUpdate, xanEleMove, Queued xanDoSave.
+- Updated Session.php session init to try and prevent unexpected logouts.
+- Updated SQL functions to wrap col names in backticks with an override for *.
+- Updated init.php to make it easier to see when files were last minified in the console.
+- Updated Contacts Cards to xandev after syncing with another project.
+
 2025-08-28-15-55-18
 - Updated /blog. Almost done. Need to add Tags, Author, and Media Image.
 
