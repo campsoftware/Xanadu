@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-09-09-13-07-20
+- Renamed SQL Arrays from SQL_ to ARRAY_SQL_
+
 2025-09-08-18-20-30
 - Updated sql connections to use utf8m4 instead of utf8.
 - Added new element DB type: eleCheckboxGroupDB.
