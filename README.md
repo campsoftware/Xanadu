@@ -12,6 +12,11 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-09-10-19-02-32
+- Updated module.php recColRenderAs to handle Choices Overrides.
+- Updated functions-helpers.php function eleLogAuditTable so TEXT columns are height constrained.
+- Updated eleMeta.php function selectChoicesArray to simplify.
+
 2025-09-09-13-07-20
 - Renamed SQL Arrays from SQL_ to ARRAY_SQL_
 
