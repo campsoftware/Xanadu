@@ -12,6 +12,12 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-09-12-12-56-33
+- Added functions-internet.php function urlProtocolCheck to make sure https:// or others is included.
+- Added functions-dataMassage.php function strStripTagsAndSubPairs to, by default, sub HTM_BR to ' / ' and then remove tags.
+- Updated calls to set $resp->headMetaTitle to use \xan\strStripTagsAndSubPairs.
+- Updated Comms Website Button to use /xan/urlProtocolCheck.
+
 2025-09-11-13-47-32
 - Updated constants-arrays.php to add an example for Choices Override using Comms Type = Phone/Email as and example.
 
