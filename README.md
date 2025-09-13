@@ -12,6 +12,13 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-09-13-17-57-34
+- Added xan.css.css settings for Card Header, Tabs Active, Tabs, Inactive, Tabs Disabled.
+- Renamed strSubstituteValuePairsD to strSubstitutePairsD.
+- Renamed eleCheckboxGroupDB to eleValuesBadgesDB.
+- Added eleTabs.php for a Tabs Element.
+- Added on Home, cardTabs Example.
+
 2025-09-12-12-56-33
 - Added functions-internet.php function urlProtocolCheck to make sure https:// or others is included.
 - Added functions-dataMassage.php function strStripTagsAndSubPairs to, by default, sub HTM_BR to ' / ' and then remove tags.
