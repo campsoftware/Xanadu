@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-09-15-15-25-37
+- Updated eleTabs to use eleCards as a base with Tab Buttons in the Header and Tab Content in the Body.
+- Updated strLoremIpsum to be able to generate more than 69 words.
+
 2025-09-14-16-44-25
 - Updated eleCard and eleTabs to default to auto overflow, resizeable, and an Expand Button.
 - Started process of moving cardExpandButton from \xan\modules to \xan\element.
