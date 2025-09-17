@@ -12,6 +12,11 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-09-17-13-51-12
+- Updated module.php to support using MySQL Views as an alternative to All Records.
+- Update HomeM eleTabs Example.
+- Renamed ContactsMT contactName functions from contactNameDisplay to contactNameAsHTML. Added contactNameAsLine.
+
 2025-09-15-15-25-37
 - Updated eleTabs to use eleCards as a base with Tab Buttons in the Header and Tab Content in the Body.
 - Updated strLoremIpsum to be able to generate more than 69 words.
