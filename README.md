@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-09-18-10-53-39
+- Updated router.php to support Module Views.
+- Added Home Buttons for Contacts Active and Contact Not Active.
+
 2025-09-17-13-51-12
 - Updated module.php to support using MySQL Views as an alternative to All Records.
 - Update HomeM eleTabs Example.
