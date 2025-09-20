@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-09-20-17-35-24
+- Added functions-helpers.php function eleButtonViewRender for loading MySQL Views as a Search.
+- Updated content-page.php to handle when $resp->reqID === 'view'.
+
 2025-09-18-10-53-39
 - Updated router.php to support Module Views.
 - Added Home Buttons for Contacts Active and Contact Not Active.
