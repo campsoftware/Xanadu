@@ -12,6 +12,14 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-09-27-16-20-55
+- Updated xan.php and eleMeta Schema to add isNullable, isGenerated, $extra, $defaultValue, and  $comment.
+- Updated module.php:
+    - Added a new abstract function tableSelectAsAppend to append calcs in the form of AS.
+    - Added automatic readonly if $eleMeta->isDefined === 'AS' || $eleMeta->isGenerated === 'Yes'.
+    - Updated function cardListCard query to append $this->tableSelectAsAppend();
+- Added function tableSelectAsAppend to each module.
+
 2025-09-25-14-47-58
 - Updated DB_SERVERNAME from the direct server to db.xanweb.app.
 - Updated SQL calls with FROM tableName WHERE to wrap the tableName in backticks. 
