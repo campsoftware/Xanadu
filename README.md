@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-09-27-16-32-27
+- Updated content-page.php for Modules to append $mmTable->tableSelectAsAppend() to Detail Queries.
+
 2025-09-27-16-20-55
 - Updated xan.php and eleMeta Schema to add isNullable, isGenerated, $extra, $defaultValue, and  $comment.
 - Updated module.php:
