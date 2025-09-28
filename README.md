@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-09-28-14-00-36
+- Updated functions-helpers.php colValueType() to now return the DBS_DATATYPESIMPLE instead of DBS_DATATYPE.
+
 2025-09-28-12-00-45
 - Removed module->$this->tableSelectAsAppend() from the List Query becuase AS columns cannot be queried.
 
