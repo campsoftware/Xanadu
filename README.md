@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-09-28-12-00-45
+- Removed module->$this->tableSelectAsAppend() from the List Query becuase AS columns cannot be queried.
+
 2025-09-27-16-32-27
 - Updated content-page.php for Modules to append $mmTable->tableSelectAsAppend() to Detail Queries.
 
