@@ -12,6 +12,12 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-10-02-14-02-44
+- Updated /xan/xan.css.css styles for mark.
+- Updated /templates/pdf-default/style.css for more styles.
+- Updated mPDF from 8.2.0.0 to 8.2.6.0.
+- Updated functions-helpers.php->colValueType() to use \xan\xan::$schemaD[ $tableName ][ $columnName ][ DBS_DATATYPESIMPLE ].
+
 2025-09-28-14-00-36
 - Updated functions-helpers.php colValueType() to now return the DBS_DATATYPESIMPLE instead of DBS_DATATYPE.
 
