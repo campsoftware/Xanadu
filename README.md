@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-10-06-14-18-57
+- Uppdate eleMeta. Added properties and moved eleMeta functions to functions-helpers.php.
+
 2025-10-02-14-02-44
 - Updated /xan/xan.css.css styles for mark.
 - Updated /templates/pdf-default/style.css for more styles.
