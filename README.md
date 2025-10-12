@@ -12,6 +12,15 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-10-12-16-06-43
+- Updated xanDoProgress New Window option to flow better for the user. Before it was click, run function and optionally open a new window. Now it is click, run function and optionally open a new window, THEN run the functionContinue in the new window. Now when opening the new window, progress can be shown.
+- Updated xanDoProgress Loading, now uses the module LoadingM instead of loading.php. This keeps the interface similar except for the larger progress bar info.
+- Added new response->jsPageURLSetNewWindow.
+- Fixed Readonly Elements by using a class .xanControlReadOnly as using the readonly tag also include flatpickr and select pickers.
+- Updated ContactMT/do-print.php to use xanDoProgress.
+- Added a Bluesky API example. Need to move to Xan Labs.
+- Added ContactMT->contactName* functions option to pass either the first or second part of the name.
+
 2025-10-06-14-18-57
 - Uppdate eleMeta. Added properties and moved eleMeta functions to functions-helpers.php.
 
