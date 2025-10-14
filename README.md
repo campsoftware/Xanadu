@@ -12,6 +12,12 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-10-14-15-38-54
+- Added module LoadingM to replace loading.php.
+- Added URL_ROOT_BOX to URL_ROOT_FILES for files like PDFs, not in the database URL_ROOT_BUCKET.
+- Fixed a bug in xanDoProgressContinue when trying to set spinnerTitle when staying in the same window.
+- Updated ContactMT/do-print.php to use Limits and Offsets to save memory. mPDF conversions are slower than expected.
+
 2025-10-12-16-06-43
 - Updated xanDoProgress New Window option to flow better for the user. Before it was click, run function and optionally open a new window. Now it is click, run function and optionally open a new window, THEN run the functionContinue in the new window. Now when opening the new window, progress can be shown.
 - Updated xanDoProgress Loading, now uses the module LoadingM instead of loading.php. This keeps the interface similar except for the larger progress bar info.
