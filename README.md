@@ -12,6 +12,14 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-10-19-14-09-59
+- Added PDF Forms with Editing and Printing using W-9 as an Example.
+- Added templates/html-default.
+- Added functions-helpers.php functions for formOverlays.
+- Updated printer.php. Cleanup and Empty Array Checking.
+- Updated module->cardActionsDetail using $actionsABegin and $actionsAEnd.
+- Fixed module instances usage of $cardHeaderContentRight to be consistent.
+
 2025-10-14-15-38-54
 - Added module LoadingM to replace loading.php.
 - Added URL_ROOT_BOX to URL_ROOT_FILES for files like PDFs, not in the database URL_ROOT_BUCKET.
