@@ -12,6 +12,13 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-10-20-12-41-25
+- Added /templates/form-default style.css back. It's inert unless used.
+- Updated module->cardActionsDetail function to use the template pdf-default.
+- Renamed template html-default to form-default.
+- Updated functions-helpers.php, adding backticks on more tables and column references.
+- Renamed formOverlayAssociationApplication to formOverlayW9.
+  
 2025-10-19-14-09-59
 - Added PDF Forms with Editing and Printing using W-9 as an Example.
 - Added templates/html-default.
