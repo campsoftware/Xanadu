@@ -12,6 +12,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-10-30-14-10-10
+- Updated ContactsMT->formOverlayW9 with a Watermark.
+
 2025-10-29-12-04-18
 - Added xan.js.js and response.php functions for jsRenameID.
 - Added module.php function recCol_Input_InsertIf for Insertable Inputs.
