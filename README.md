@@ -12,6 +12,18 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-11-04-17-19-15
+- Updated recs.php recordUpdate, recordDuplicate, recordDuplicateRelated to only set normal columns, not Generated Columns.
+- Updated page-resp.php to merge Schema Update with Triggers Update. 
+- Updated do-schema-update.php to run Triggers and Generated Columns, Modules update, then Schema update.
+- Removed do-triggers-update.php.
+- Removed SettingsMT/do.php TriggersUpdate.
+- Added functions-helpers.php sqlUpdateColNameQuestions function.
+- Updated functions-dataMassage.php isEmpty and isNotEmpty to handle empty date 0000-00-00 and empty timestamp 0000-00-00 00:00:00.
+- Added SettingsCompanies function numContactGet that returns and increments the next Contact Integer ID.
+- Added ContactsMT/class.php to set Cust Integer if empty or 0.
+- Added ContactsMT/class.php to set Cust Num if empty.
+
 2025-10-30-14-10-10
 - Updated ContactsMT->formOverlayW9 with a Watermark.
 
