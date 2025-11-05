@@ -12,6 +12,10 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-11-05-12-30-05
+- Updated Contacts to have both a CustNum and CustInteger.
+- Updated SettingsCompanies to add a NumSaleNext column to work with the function SettingsCompanies->numContactGet.
+
 2025-11-04-17-19-15
 - Updated recs.php recordUpdate, recordDuplicate, recordDuplicateRelated to only set normal columns, not Generated Columns.
 - Updated page-resp.php to merge Schema Update with Triggers Update. 
