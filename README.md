@@ -12,6 +12,14 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-11-15-15-46-43
+- Added xan.css.css styles for ".xanBadgeNotSet" and ".xanBadgeNotSet .xanBadge".
+- Updated \xan\recs->colValue and colvalueFormatted to optionally apply htmlspecialchars function.
+- Added functions-helpers.php function sqlWherePermutations and sqlDebugIBindValuesA.
+- Updated functions-files-paths.php function fileNameClean to replace newline, return, and tab.
+- Updated eleValuesBadges.php and eleValuesBadgesDB.php formatting.
+- Added ContactsMT function contactNameLine( \xan\recs $recs, $line ) and updated the other Name functions to use it.
+
 2025-11-05-12-30-05
 - Updated Contacts to have both a CustNum and CustInteger.
 - Updated SettingsCompanies to add a NumSaleNext column to work with the function SettingsCompanies->numContactGet.
