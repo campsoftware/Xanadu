@@ -12,6 +12,15 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
 
+2025-12-04-10-57-42
+- Updated \xan\xanDoProgressLoop to support loop levels.
+- Updated \xan\printer to use \xan\xanDoProgressLoop.
+- Added \xan\pdfMan to manage PDF utilities for manipulating PDFs.
+- Updated \xan\filenameClean \xan\filePathDeleteOlder and \xan\filePathCreate_Working.
+- Updated /xan/openAI/englishToMySQL_instructions.txt for MySQL 8.
+- Updated LoadingM for \xan\xanDoProgressLoop.
+- Updated HomeM creating cardWeather, cardChart, cardAI, cardTabs, cardBSDelete as their own cards.
+
 2025-11-15-15-46-43
 - Added xan.css.css styles for ".xanBadgeNotSet" and ".xanBadgeNotSet .xanBadge".
 - Updated \xan\recs->colValue and colvalueFormatted to optionally apply htmlspecialchars function.
