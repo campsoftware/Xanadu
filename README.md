@@ -1,6 +1,6 @@
-# Xanadu
+# Xanadu 
 
-Xanadu is a framework for developing Database Driven Web Apps. 
+**Xanadu is a framework for developing Database Driven Web Apps.** 
 
 Xanadu uses PHP, MySQL, HTML, Bootstrap, CSS, and Javascript with several amazing includes.
 
@@ -10,7 +10,18 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 # Xanadu Pro Change Log
 
-Use when possible: [ Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, NOTE ]
+**In Progress**
+- Sales add ProjectsTasks to SalesItems.
+- Convert from PHP 8.3 to PHP 8.5:
+  - **Find**: \Pdo::MYSQL_ATTR_FOUND_ROWS **Replace**: \Pdo\Mysql::ATTR_FOUND_ROWS
+
+**Try to use:** [ Found, Fixed, Updated, Moved, Added, Removed, Renamed, Replaced, Decided, Planning, NOTE ]
+
+**Change Log**
+
+2025-12-09-16-58-19
+- Planning to update from PHP 8.3 to PHP 8.5. Added to In Progress a PHP 8.5 Find/Replace.
+- Fixed PHP 8.5 issues and many items from PHPStorm Problems also using PHPStorm Problem Suppression on a File, Function, and Statement Level.
 
 2025-12-04-10-57-42
 - Updated \xan\xanDoProgressLoop to support loop levels.
