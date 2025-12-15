@@ -19,6 +19,14 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 **Change Log**
 
+2025-12-14-19-23-22
+- Updated xan.php Schema Update to create indexes for Columns beginning with UUID. Automatically changes to varchar(50) if not already varchar.
+- Added recs.php comment: TODO Add if it makes sense: PDO::ATTR_PERSISTENT => true
+- Added openAIAPI.php function estimateCostUsd.
+- Refactored XanLabs display and organization to not repeat titles, icons, etc.
+- Moved Home Cards for Weather, Chart, AI English to SQL Query, Tabs, Bsky Purge.
+- Added Settings for Bsky Handle, App Password, and Server.
+
 2025-12-09-16-58-19
 - Planning to update from PHP 8.3 to PHP 8.5. Added to In Progress a PHP 8.5 Find/Replace.
 - Fixed PHP 8.5 issues and many items from PHPStorm Problems also using PHPStorm Problem Suppression on a File, Function, and Statement Level.
