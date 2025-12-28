@@ -19,6 +19,14 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 **Change Log**
 
+2025-12-28-17-16-30
+- Added xanConsole_GoApp and xanDesktop_GoApp.
+- Added watch.php for the xanConsole and xanDesktop Watch Folder apps.
+- Added XanLabs contactCard-SQLitePostal.php to Query https://xanweb.app/xanAddresses.php.
+- Updated init.php flow and added PATH_ROOT_WATCH and URL_ROOT_WATCH.
+- Updated recsPDO.php to use its own property vs a global.
+- Updated function pathCreateRecursive to use PERMISSIONS_ constants and to apply chown and chgrp.
+
 2025-12-14-19-23-22
 - Updated xan.php Schema Update to create indexes for Columns beginning with UUID. Automatically changes to varchar(50) if not already varchar.
 - Added recs.php comment: TODO Add if it makes sense: PDO::ATTR_PERSISTENT => true
