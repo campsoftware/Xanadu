@@ -19,6 +19,21 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 **Change Log**
 
+2026-03-03-15-21-09
+- Fixed CommsMT->cardPortal function buttons for Email, Text, Call, View Web Page.
+- Fixed ContactsMT, ProductsMT, SettingsCompaniesMT, UsersMT Image Buckets.
+- Update get.php to add TAGS_CELL_RTBUCKET for displaying the Label and Buttons with the correct padding.
+- Fixed All the do-print.php files to use xanDoProgress.
+- Fixed AuditLog Modal issue showing the HTML Table.
+- Updated eleModal.php to resize to see the AuditLog Progress and also addded a Progress Mirror.
+- Added xan.js.js function xanMessageMirrorInit.
+- Updated page-resp.php to add xanMessageMirrorInit function.
+- Updated codeContentAndScripts function to clear the code arrays.
+- Fixed module.php recCol_BucketButtons function setting $eleIDSelector.
+
+2026-02-19-15-03-52
+- Added dev-hal_merge.sh to automate merging dev-hal into main.
+
 2025-12-28-17-16-30
 - Added xanConsole_GoApp and xanDesktop_GoApp.
 - Added watch.php for the xanConsole and xanDesktop Watch Folder apps.
