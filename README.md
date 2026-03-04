@@ -19,6 +19,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 **Change Log**
 
+2026-03-04-12-59-18
+- Fixed xan.js.js xanMessageDisplay issue where the completed message was not being removed.
+
 2026-03-03-15-21-09
 - Fixed CommsMT->cardPortal function buttons for Email, Text, Call, View Web Page.
 - Fixed ContactsMT, ProductsMT, SettingsCompaniesMT, UsersMT Image Buckets.
