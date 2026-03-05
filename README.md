@@ -19,6 +19,13 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 **Change Log**
 
+2026-03-05-14-18-03
+- Added functionality for PDF form handling, including retrieving and setting PDF form fields in `pdfMan.php`.  
+- Integrated new PDF form field feature into the Xan Labs module with a UI button and sample implementation.  
+- Refactored and renamed PDF-related methods for clarity: `pagesTextFind` → `getTextFindPageNums`, `pagesTextExtract` → `getPageText`, and `cardRecordApplication` → `cardRecordForm`.  
+- Minor cleanup in `ContactsMT` and `HomeM` modules for better maintainability.  
+- Added test files `pdfTestForm.pdf` and `pdfTestFormSet.pdf` to validate PDF form functionality.
+
 2026-03-04-12-59-18
 - Fixed xan.js.js xanMessageDisplay issue where the completed message was not being removed.
 
