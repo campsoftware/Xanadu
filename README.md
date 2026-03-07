@@ -19,6 +19,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 **Change Log**
 
+2026-03-07-14-46-54
+- Reformatting Changes
+
 2026-03-05-14-18-03
 - Added functionality for PDF form handling, including retrieving and setting PDF form fields in `pdfMan.php`.  
 - Integrated new PDF form field feature into the Xan Labs module with a UI button and sample implementation.  
