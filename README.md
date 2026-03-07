@@ -19,6 +19,9 @@ Read more about Xanadu: https://campsoftware.com/products/xanadu.php
 
 **Change Log**
 
+2026-03-07-15-17-35
+- Updated GitHub commit shell script doDevGit.sh.
+
 2026-03-07-14-46-54
 - Reformatting Changes
 
